@@ -79,7 +79,7 @@ body {
   border: 2px solid var(--secondary-color);
   transition: all 0.4s;
 }
-#main .user_info .btn:hover {
+#main .user_info .btn:hover, #About .btn:hover{
   background: var(--secondary-color);
 }
 #particles-js {
